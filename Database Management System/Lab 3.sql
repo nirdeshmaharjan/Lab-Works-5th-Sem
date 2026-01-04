@@ -27,3 +27,4 @@ USE collegedb;
 -- (3, 'Charlie', 13, '7th Grade');
 
 -- SELECT * FROM students;
+
